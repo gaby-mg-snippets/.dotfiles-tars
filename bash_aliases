@@ -1,3 +1,3 @@
 
 alias t=todo-txt
-alias ls='ls --color=auto --ignore=snap'
+alias ls='ls --ignore=snap'
